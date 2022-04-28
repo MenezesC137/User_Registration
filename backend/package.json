@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MenezesC137/User_Registration.git"
+  },
+  "author": "Carlos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MenezesC137/User_Registration/issues"
+  },
+  "homepage": "https://github.com/MenezesC137/User_Registration#readme",
+  "dependencies": {
+    "json-server": "0.13.0"
+  }
+}
